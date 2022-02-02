@@ -1,0 +1,274 @@
+  /* universel section start */
+  
+  * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: sans-serif;
+  }
+  
+  .btn {
+      font-size: 15px;
+      font-weight: 700px;
+      background-color: #f6ac66;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: black;
+      border: none;
+      padding: 10px 25px;
+      margin-top: 40px;
+  }
+  /* universel section end */
+  /* header section start here */
+  
+  .header_section {
+      background-image: url(Images/Image_1.png);
+      height: 650px;
+      width: 100%;
+      background-position: center;
+      background-size: cover;
+      color: white;
+  }
+  
+  .header_content {
+      padding: 250px 100px;
+  }
+  
+  .header_content h1 {
+      font-size: 50px;
+      font-weight: 200;
+  }
+  
+  .header_content p {
+      font-size: 15px;
+      margin-top: 25px;
+      letter-spacing: 1px;
+      line-height: 25px;
+  }
+  /* header section end here */
+  /* div1 start here */
+  
+  .div1 {
+      height: 600px;
+  }
+  
+  .div1_left {
+      float: left;
+      width: 50%;
+      height: 600px;
+      background-color: rgb(34, 32, 32);
+      color: white;
+      padding: 40px 60px;
+  }
+  
+  .div1_left h1 {
+      text-align: center;
+      margin-top: 200px;
+      font-size: 35px;
+      font-weight: 200;
+  }
+  
+  .div1 p {
+      text-align: center;
+      padding: 30px;
+      font-size: 15px;
+      letter-spacing: 1px;
+      line-height: 25px;
+  }
+  
+  .div1_right {
+      float: right;
+      width: 50%;
+      height: 600px;
+      background-color: rgb(19, 16, 16);
+      color: white;
+      padding: 40px 60px;
+  }
+  
+  .div1_right h1 {
+      text-align: center;
+      margin-top: 200px;
+      font-size: 35px;
+      font-weight: 200;
+  }
+  
+  .div1_right p {
+      text-align: center;
+      padding: 30px;
+      font-size: 15px;
+      letter-spacing: 1px;
+      line-height: 25px;
+  }
+  
+  .div1_right .btn_wrapper {
+      text-align: center;
+      padding: 0 150px;
+  }
+  /* div1 ends here */
+  /* div2 start here */
+  
+  .div2 {
+      height: 630px;
+      width: 100%;
+  }
+  
+  .div2_left {
+      float: left;
+      width: 30%;
+      height: 630px;
+      background-color: rgb(230, 225, 225);
+      padding: 150px 60px;
+  }
+  
+  .div2_left h1 {
+      font-size: 40px;
+      font-weight: 300;
+  }
+  
+  .div2_left p {
+      margin-top: 30px;
+      font-size: 15px;
+      letter-spacing: 1px;
+      line-height: 25px;
+  }
+  
+  .div2_right {
+      float: right;
+      width: 70%;
+      height: 630px;
+      background-position: center;
+      background-size: cover;
+  }
+  
+  .div2_right img {
+      height: 630px;
+  }
+  /* div2 ends here */
+  /* div3 start here */
+  
+  .div3 {
+      height: 630px;
+      width: 100%;
+  }
+  
+  .div3_left {
+      float: left;
+      width: 70%;
+      height: 630px;
+  }
+  
+  .div3_left img {
+      height: 630px;
+  }
+  
+  .div3_right {
+      float: right;
+      width: 30%;
+      height: 630px;
+      background-color: rgb(34, 32, 32);
+      color: white;
+      padding: 150px 60px;
+  }
+  
+  .div3_right h1 {
+      font-size: 40px;
+      font-weight: 300;
+  }
+  
+  .div3_right p {
+      margin-top: 30px;
+      font-size: 15px;
+      letter-spacing: 1px;
+      line-height: 25px;
+  }
+  /* div3 ends here */
+  /* div4 start here */
+  
+  .div4 {
+      width: 100%;
+      height: 550px;
+      background-image: url(Images/Image_4.png);
+      width: 100%;
+      background-position: center;
+      background-size: cover;
+  }
+  
+  .div4 .card {
+      width: 50%;
+      padding-top: 150px;
+      padding-right: 20%;
+      margin: 0 0 0 200px;
+  }
+  
+  .card .card_content {
+      width: 50%;
+      height: 500px;
+      background-color: rgb(230, 225, 225);
+      color: rgb(0, 0, 0);
+      padding: 150px 90px;
+      position: absolute;
+  }
+  
+  .card_content h1 {
+      font-size: 40px;
+      font-weight: 300;
+  }
+  
+  .card_content p {
+      margin-top: 30px;
+      font-size: 15px;
+      letter-spacing: 1px;
+      line-height: 25px;
+  }
+  
+  .card_content h2 {
+      margin-top: 30px;
+      font-size: 30px;
+      font-weight: 300;
+  }
+  
+  .div_line {
+      width: 100%;
+      height: 100px;
+      background-color: rgb(34, 32, 32);
+      border-bottom: 1px solid #fff;
+  }
+  /* div4 ends here */
+  /* div5 start here */
+  
+  .div_6 {
+      width: 100%;
+      height: 500px;
+      background-color: rgb(34, 32, 32);
+      color: white;
+  }
+  
+  .content h1 {
+      padding-top: 150px;
+      text-align: center;
+      font-size: 40px;
+      font-weight: 300;
+  }
+  
+  .content p {
+      text-align: center;
+      margin-top: 30px;
+      font-size: 15px;
+      letter-spacing: 1px;
+      line-height: 25px;
+      padding: 0 300px;
+  }
+  
+  .div_6 form {
+      padding: 0 400px;
+  }
+  
+  .div_6 form input {
+      padding: 13px;
+      width: 350px;
+      background-color: rgb(34, 32, 32);
+      border: none;
+      border: 1px solid #fff;
+      border-radius: 5px;
+  }
+  /* div5 ends here */
